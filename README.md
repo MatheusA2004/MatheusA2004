@@ -1,9 +1,9 @@
-<h1>Hello, me chamo Matheus Almeida !</h1><br>
+<h1>Olá, me chamo Matheus Almeida !</h1><br>
 <h3>Seja bem vindo ao meu perfil Github :wave:</h3>
 
 <h1>-------------------------------------------------------------------------</h1>
 
-:telescope: Ainda não atuei na área profissional de desenvolvimento mas ja participei de diversos projetos em grupo e individuais.<br><br>
+:telescope: Ainda não atuei profissionalmente na área de tecnologia mas ja participei de diversos projetos em grupo e individuais.<br><br>
 :seedling: Atualmente estou cursando Análise e desenvolvimento de sistemas, ja tenho nível técnico em informática e programo desde 2021.<br><br>
 :mag_right: Estou a procura da minha primeira oportunidade profissional como programador.
 
