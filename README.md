@@ -4,7 +4,7 @@
 <h1>-------------------------------------------------------------------------</h1>
 
 :telescope: Ainda não atuei profissionalmente na área de tecnologia mas ja participei de diversos projetos em grupo e individuais.<br><br>
-:seedling: Atualmente estou cursando Análise e desenvolvimento de sistemas, ja tenho nível técnico em informática e programo desde 2021.<br><br>
+:seedling: Graduado em análise e densenvolvimento de sistemas <br><br>
 :mag_right: Estou a procura da minha primeira oportunidade profissional como programador.
 
 <h1>-------------------------------------------------------------------------</h1>
